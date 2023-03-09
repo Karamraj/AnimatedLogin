@@ -1,4 +1,4 @@
-# AnimatedLogin
+# Animated Login Page
 
 Amazing Animated Login Form Page with good UI built in HTML & CSS.
 
